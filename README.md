@@ -12,3 +12,4 @@ If we do this manually, it would be such a horrible task and there would be easi
 4. 优化json配置解析，可以新开json文件，也可以写在package.json里
 5. 用ts改写该工具，优化代码，规范风格
 6. 单元测试
+7. watch
