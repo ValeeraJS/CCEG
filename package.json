@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/parser": "^7.8.7",
+    "@babel/plugin-transform-flow-comments": "^7.8.3",
+    "@babel/preset-typescript": "^7.8.3",
+    "babel-extract-comments": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-valeera": "^0.1.1"
+  }
+}
